@@ -1,0 +1,8 @@
+{
+    "base_path": "/var/projects/buzz/buzz-intern-server/money/__services__/stripe/.gpm/base.json",
+    "gpm_path": "/var/projects/buzz/buzz-intern-server/money/__services__/stripe/.gpm",
+    "name": "dj-stripe",
+    "project_type": "module",
+    "repository_url": "https://github.com/px57/dj-stripe.git",
+    "root_path": "/var/projects/buzz/buzz-intern-server/money/__services__/stripe"
+}
